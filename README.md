@@ -1,5 +1,5 @@
 ```Js
- const github = require('github');
+const github = require('github');
 
 class Mat extends github.Profile {
     constructor() {
